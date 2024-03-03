@@ -1,5 +1,5 @@
 let arr = [
-    { songName: 'Ajab si', img: "./omshantiom.jpg", url: './ajab si.mp3' },
+    { songName: 'Ajab si', img: "./omshantiom.webp", url: './ajab si.mp3' },
     { songName: 'India wale', img: "https://i.pinimg.com/236x/e1/1b/de/e11bdee075b3e12471616b69e5d4c7a8.jpg", url: './India wale.mp3' },
     { songName: 'Pause your sight', img: "https://i.pinimg.com/236x/07/7f/37/077f37774385f7fcbffc136039a2fd89.jpg", url: './Puase your sight.mp3' }
 ]
